@@ -7,6 +7,7 @@ public class AleatorioEmple {
 	public static void main(String[] args) throws IOException {
 		
 		System.out.println("Ejercicio inicial");
+		System.out.println("Cambio dos");
 		
 		crear();
 		leer();
